@@ -1,4 +1,4 @@
-#---Real-time Scanning Over Local Ethernet---
+# ---Real-time Scanning Over Local Ethernet---
 
 1. Download latest release from https://github.com/Neo23x0/Loki/releases
 2. Unzip into the loki directory
