@@ -1,11 +1,4 @@
- _______     ______     ___   _____     ________
-|_   __ \  .' ____ \  .'   `.|_   _|   |_   __  |
-  | |__) | | (___ \_|/  .-.  \ | |       | |_ \_|
-  |  __ /   _.____`. | |   | | | |   _   |  _| _
- _| |  \ \_| \____) |\  `-'  /_| |__/ | _| |__/ |
-|____| |___|\______.' `.___.'|________||________|
-
-   ---Real-time Scanning Over Local Ethernet---
+#   ---Real-time Scanning Over Local Ethernet---
 
 1. Download latest release from https://github.com/Neo23x0/Loki/releases
 2. Unzip into the loki directory
