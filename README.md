@@ -1,4 +1,4 @@
-#   ---Real-time Scanning Over Local Ethernet---
+#---Real-time Scanning Over Local Ethernet---
 
 1. Download latest release from https://github.com/Neo23x0/Loki/releases
 2. Unzip into the loki directory
@@ -13,19 +13,19 @@ Additional Files:
 
 \script_tools
 
-PsExec.exe
-PsExec64.exe
-psshutdown.exe
+PsExec.exe<br />
+PsExec64.exe<br />
+psshutdown.exe<br />
 
 \loki\script_tools\
 
-autorunsc.exe
-autorunsc64.exe
-pskill.exe
-pskill64.exe
-pslist.exe
-pslist64.exe
-psloglist.exe
-PsService.exe
-PsService64.exe
+autorunsc.exe<br />
+autorunsc64.exe<br />
+pskill.exe<br />
+pskill64.exe<br />
+pslist.exe<br />
+pslist64.exe<br />
+psloglist.exe<br />
+PsService.exe<br />
+PsService64.exe<br />
 Tcpvcon.exe
