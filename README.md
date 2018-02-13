@@ -3,7 +3,7 @@
 1. Download latest release from https://github.com/Neo23x0/Loki/releases
 2. Unzip into the loki directory
 3. Download the Sysinternals files from https://docs.microsoft.com/en-us/sysinternals/downloads/pstools
-4. Copy the tools detailed below to the folders detailed below 
+4. Copy the tools to the locations detailed below 
 5. Modify \LogStore.conf to point to a location for storing logs (can be local or a read-write share)
 6. Populate the \Host_files\Host_List files as required
 7. Run \RSOLE_Script.bat as Administrator
